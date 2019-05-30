@@ -1,7 +1,19 @@
 # Warhero
 This project was an individual project. It is heavily inspired by brackeys rpg tutorial and uses some of his assets in the environment.
 
+
+Instructions:
+----------------------------------------------------------------------------------
+
+To play the game download the Warhero.EXE and the Warhero_Data files.
+When the files are downloaded, run the Warhero.EXE file and have fun!
+
+----------------------------------------------------------------------------------
+
+
+
 Controls:
+----------------------------------------------------------------------------------
 
 RMB: Is to move around the terrain
 LMB: Interact with objects and pickup items
